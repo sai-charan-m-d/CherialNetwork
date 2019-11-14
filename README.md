@@ -12,5 +12,3 @@ Neural networks from scratch:
     --> SGD (Stocastic Gradient Descent)
 5. data
 6. training
-7. XOR examplr
-8. fizzbuzz exampr
